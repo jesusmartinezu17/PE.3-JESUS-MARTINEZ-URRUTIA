@@ -1,0 +1,7 @@
+C:\Users\Jeshua\Documents\Documents\Uni\3er\Georgie\PE. 3 JESUS MARTINEZ URRUTIA\PE. 3 JESUS MARTINEZ URRUTIA\bin\Debug\PE. 3 JESUS MARTINEZ URRUTIA.exe.config
+C:\Users\Jeshua\Documents\Documents\Uni\3er\Georgie\PE. 3 JESUS MARTINEZ URRUTIA\PE. 3 JESUS MARTINEZ URRUTIA\bin\Debug\PE. 3 JESUS MARTINEZ URRUTIA.exe
+C:\Users\Jeshua\Documents\Documents\Uni\3er\Georgie\PE. 3 JESUS MARTINEZ URRUTIA\PE. 3 JESUS MARTINEZ URRUTIA\bin\Debug\PE. 3 JESUS MARTINEZ URRUTIA.pdb
+C:\Users\Jeshua\Documents\Documents\Uni\3er\Georgie\PE. 3 JESUS MARTINEZ URRUTIA\PE. 3 JESUS MARTINEZ URRUTIA\obj\Debug\PE. 3 JESUS MARTINEZ URRUTIA.csprojResolveAssemblyReference.cache
+C:\Users\Jeshua\Documents\Documents\Uni\3er\Georgie\PE. 3 JESUS MARTINEZ URRUTIA\PE. 3 JESUS MARTINEZ URRUTIA\obj\Debug\PE. 3 JESUS MARTINEZ URRUTIA.csproj.CoreCompileInputs.cache
+C:\Users\Jeshua\Documents\Documents\Uni\3er\Georgie\PE. 3 JESUS MARTINEZ URRUTIA\PE. 3 JESUS MARTINEZ URRUTIA\obj\Debug\PE. 3 JESUS MARTINEZ URRUTIA.exe
+C:\Users\Jeshua\Documents\Documents\Uni\3er\Georgie\PE. 3 JESUS MARTINEZ URRUTIA\PE. 3 JESUS MARTINEZ URRUTIA\obj\Debug\PE. 3 JESUS MARTINEZ URRUTIA.pdb
